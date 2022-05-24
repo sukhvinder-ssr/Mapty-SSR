@@ -90,7 +90,7 @@ class App {
     const { latitude } = postion.coords;
     const { longitude } = postion.coords;
     const coords = [latitude, longitude];
-    console.log(`https://www.google.com/maps/@${latitude}.${longitude}`);
+    // console.log(`https://www.google.com/maps/@${latitude}.${longitude}`);
     this.#map = L.map('map').setView(coords, this.#mapZoomLevel);
 
     L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
