@@ -24,16 +24,16 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://mapty-ssr.netlify.app/)
 
-Mapty is a vanilla JavaScript application that interacts with the Leaflet library and display Map. This app uses modern JavaScript tools, such as Webpack to bundle the modules, and Babel to convert ES6, ES7 and ES8 back to ES5. The user can add workouts for running and cycling and these are stored via local storage.
+Mapty is a vanilla JavaScript application that interacts with the Leaflet library and display Map. This app uses modern JavaScript tools, such as parcel to bundle the modules, and Babel to convert ES6, ES7 and ES8 back to ES5. The user can add workouts for running and cycling and these are stored via local storage.
 
 ### Built With
 
-This app is built with pure vanilla JavaScript along with HTML and CSS. It uses webpack as module bundler and NPM as package manager.
+This app is built with pure vanilla JavaScript along with HTML and CSS. It uses parcel as module bundler and NPM as package manager.
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
-- [Webpack](https://webpack.js.org/)
+- [PARCEL]([https://webpack.js.org/](https://www.npmjs.com/package/parcel))
 - [NPM](https://www.npmjs.com/)
 
 ## Usage
